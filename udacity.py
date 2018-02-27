@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 11 22:57:32 2018
 
-@author: 2500183
+@author: 
 """
 
 """Softmax."""
